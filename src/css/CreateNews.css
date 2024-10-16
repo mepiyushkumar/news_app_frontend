@@ -1,0 +1,8 @@
+.create-news-heading{
+    background-color: #7E7E7E;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
